@@ -66,9 +66,10 @@ request with the new wording for you to review.
 
 ## Deploying
 
-Every push to `main` runs the **Deploy to GitHub Pages** workflow, which enables Pages
-for the repository on first run. If the first run fails on enablement, open
-Settings, Pages, and set the source to **GitHub Actions**, then re-run the workflow.
+Every push to `main` runs the **Deploy to GitHub Pages** workflow, which mirrors `main`
+onto the `gh-pages` branch. GitHub Pages serves that branch from the repository root,
+so the site updates about a minute after each push. The `.nojekyll` file tells Pages
+to serve the files exactly as committed.
 
 ## Adding a language
 
