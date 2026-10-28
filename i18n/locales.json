@@ -1,0 +1,146 @@
+[
+  {
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "greeting": "Hello",
+    "cta": "Choose a language",
+    "taglines": [
+      "Software that speaks your language, wherever you are.",
+      "One codebase. Every language. Built with AI.",
+      "Good products greet you in your own words."
+    ]
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "nativeName": "हिन्दी",
+    "greeting": "नमस्ते",
+    "cta": "भाषा चुनें",
+    "taglines": [
+      "सॉफ़्टवेयर जो आपकी भाषा बोले, आप जहाँ भी हों।",
+      "एक कोडबेस। हर भाषा। AI के साथ बनाया गया।",
+      "अच्छे प्रोडक्ट आपका स्वागत आपके ही शब्दों में करते हैं।"
+    ]
+  },
+  {
+    "code": "bn",
+    "name": "Bengali",
+    "nativeName": "বাংলা",
+    "greeting": "নমস্কার",
+    "cta": "ভাষা বেছে নিন",
+    "taglines": [
+      "সফটওয়্যার যা আপনার ভাষায় কথা বলে, আপনি যেখানেই থাকুন।",
+      "একটি কোডবেস। প্রতিটি ভাষা। AI দিয়ে তৈরি।",
+      "ভালো প্রোডাক্ট আপনাকে আপনার নিজের ভাষায় স্বাগত জানায়।"
+    ]
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "greeting": "Hola",
+    "cta": "Elige un idioma",
+    "taglines": [
+      "Software que habla tu idioma, estés donde estés.",
+      "Un solo código. Todos los idiomas. Creado con IA.",
+      "Los buenos productos te saludan con tus propias palabras."
+    ]
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "greeting": "Bonjour",
+    "cta": "Choisir une langue",
+    "taglines": [
+      "Un logiciel qui parle votre langue, où que vous soyez.",
+      "Un seul code. Toutes les langues. Conçu avec l'IA.",
+      "Les bons produits vous accueillent dans vos propres mots."
+    ]
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "greeting": "Hallo",
+    "cta": "Sprache wählen",
+    "taglines": [
+      "Software, die deine Sprache spricht, wo immer du bist.",
+      "Eine Codebasis. Jede Sprache. Mit KI gebaut.",
+      "Gute Produkte begrüßen dich in deinen eigenen Worten."
+    ]
+  },
+  {
+    "code": "pt-BR",
+    "name": "Portuguese (Brazil)",
+    "nativeName": "Português (Brasil)",
+    "greeting": "Olá",
+    "cta": "Escolha um idioma",
+    "taglines": [
+      "Software que fala a sua língua, onde quer que você esteja.",
+      "Um só código. Todos os idiomas. Feito com IA.",
+      "Bons produtos cumprimentam você com as suas próprias palavras."
+    ]
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "greeting": "こんにちは",
+    "cta": "言語を選ぶ",
+    "taglines": [
+      "どこにいても、あなたの言葉で話すソフトウェア。",
+      "ひとつのコードベース。すべての言語。AIとともに。",
+      "良いプロダクトは、あなたの言葉であいさつします。"
+    ]
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "nativeName": "한국어",
+    "greeting": "안녕하세요",
+    "cta": "언어 선택",
+    "taglines": [
+      "어디에 있든, 당신의 언어로 말하는 소프트웨어.",
+      "하나의 코드베이스. 모든 언어. AI와 함께.",
+      "좋은 제품은 당신의 언어로 인사합니다."
+    ]
+  },
+  {
+    "code": "zh",
+    "name": "Chinese (Simplified)",
+    "nativeName": "简体中文",
+    "greeting": "你好",
+    "cta": "选择语言",
+    "taglines": [
+      "无论你身在何处，软件都说你的语言。",
+      "一套代码。每一种语言。由 AI 构建。",
+      "好的产品会用你自己的语言问候你。"
+    ]
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "nativeName": "العربية",
+    "greeting": "مرحبًا",
+    "cta": "اختر لغة",
+    "taglines": [
+      "برمجيات تتحدث لغتك، أينما كنت.",
+      "قاعدة شيفرة واحدة. كل اللغات. مبنية بالذكاء الاصطناعي.",
+      "المنتجات الجيدة ترحّب بك بكلماتك أنت."
+    ]
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "nativeName": "Русский",
+    "greeting": "Здравствуйте",
+    "cta": "Выбрать язык",
+    "taglines": [
+      "Программы, которые говорят на вашем языке, где бы вы ни были.",
+      "Одна кодовая база. Все языки. Создано с помощью ИИ.",
+      "Хорошие продукты приветствуют вас на вашем родном языке."
+    ]
+  }
+]
